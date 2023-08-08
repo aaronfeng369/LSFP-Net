@@ -4,7 +4,7 @@
 
 ## Requirements
 
-We provide an requirements file requirements.txt. You can create a new conda environment or virtual environment and execute install the requirements using the following command.
+We provide a requirements file requirements.txt. You can create a new conda environment or virtual environment and execute install the requirements using the following command.
 
 ```
 pip install -r requirements.txt
