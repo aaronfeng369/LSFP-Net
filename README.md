@@ -9,8 +9,6 @@ We provide a requirements file requirements.txt. You can create a new conda envi
 ```
 pip install -r requirements.txt
 ```
-Training the LSFP-Net usually needs large GPU memory. If you come across the OOM problem, please try to reduce the `niter` and `n_f` of the network, or reduce the number of coils by coil compression.
-
 
 ## Data
 We provided a sample dataset "./Datasets/IMRI_Simu6_test.mat" for testing the code. 
