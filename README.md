@@ -1,6 +1,7 @@
 # LSFP-Net
 
 **Zhao, He, et al., *A deep unrolled neural network for real-time MRI-guided brain intervention.***
+https://doi.org/10.5281/zenodo.10054900
 
 ## Requirements
 
