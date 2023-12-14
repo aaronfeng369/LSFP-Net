@@ -1,7 +1,6 @@
 # LSFP-Net
 
-**Zhao, He, et al., *A deep unrolled neural network for real-time MRI-guided brain intervention.***
-https://doi.org/10.5281/zenodo.10054900
+**He, Z., Zhu, YN., Chen, Y. et al. A deep unrolled neural network for real-time MRI-guided brain intervention. Nat Commun 14, 8257 (2023). https://doi.org/10.1038/s41467-023-43966-w***
 
 ## Requirements
 
@@ -26,3 +25,4 @@ Model files will be stored in `./model`.
 We provided a trained model file in "./model/LSFP_Net_C3_B3_SPF10_FPG5_adj2/net_params_100.pkl". 
 
 The network can be easily tested by run "TEST_LSFP_Net_C3_simu3_adj2.py".
+
